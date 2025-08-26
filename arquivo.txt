@@ -1,0 +1,20 @@
+matplotlib.pyplot
+
+É uma interface orientada a funções
+Oferece funções para criar gráficos de linha, barras, dispersão, histogramas, etc
+
+Função	    Descrição
+plot()	    Plota gráficos de linha
+scatter()	Gráfico de dispersão (pontos)
+bar()	    Gráfico de barras
+hist()	    Histograma
+imshow()	Exibe uma imagem (matriz de dados)
+figure()	Cria uma nova figura
+subplot()	Cria múltiplos gráficos numa mesma figura
+xlabel()	Define o rótulo do eixo X
+ylabel()	Define o rótulo do eixo Y
+title()	    Define o título do gráfico
+legend()	Exibe a legenda
+grid()	    Liga/desliga grade no gráfico
+savefig()	Salva a figura em arquivo
+show()	    Exibe o gráfico na tela
