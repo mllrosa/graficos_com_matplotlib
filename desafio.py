@@ -1,10 +1,13 @@
 import matplotlib.pyplot as plt
 
-dados = [30, 50, 10]
-# labels = [ f"x{30}", f"y{50}", f"z{10}"]
-# labels = [f"x{valor}" for valor in dados]
+  # como você iria imprementar ?
+  # # para que o código pegue e atualize automaticamente 
+
+dados = [30, 50, 10, 10, 20]
+labels = [f"A{dados[0]}", f"B{dados[1]}", f"C{dados[2]}", f"D{dados[3]}", f"E{dados[4]}"]
 
 # resto do código para rodar.
-plt.bar(labels, dados) # Cria o gráfico de barras
-plt.title("Matplotlib")
+
+plt.bar(labels, dados)
+plt.title("AA")
 plt.show()
